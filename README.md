@@ -5,4 +5,5 @@ The black box around the melon indicates how the bounding box of the 2D watermel
 ![grafik](https://github.com/padit1337/object_detection2d-3d/assets/45203588/45464603-933e-433d-90fa-5739ebd71fce)
 ## The mount of the Intel RealSense 415 based on the work of bono88 https://www.thingiverse.com/thing:5394492  
 ![grafik](https://github.com/padit1337/object_detection2d-3d/assets/45203588/506ae568-1633-447d-951e-adc40fb76702)
-Then the code moves the UR5 robot to the location of the watermelon. The kinematics is currently broken, so I need to redo the math, which i will do ASAP. currently the robot moves, just in the wrong direction, because the translation and rotation matrix is flawed. 
+
+Then the code moves the UR5 robot to the location of the watermelon, using the URScript language. The kinematics is currently broken, so I need to redo the math, which i will do ASAP. currently the robot moves, just in the wrong direction, because the translation and rotation matrix is flawed. 
